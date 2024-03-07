@@ -39,4 +39,6 @@ Final mockup of a dashboard showing all failed logon attempts
 ![image](https://github.com/Matt4llan/Elastic-SIEM/assets/156334555/4f6664b4-d502-4ed3-8da8-020da5568776)
 
 
+### Final Dashboard
 
+![image](https://github.com/Matt4llan/Elastic-SIEM/assets/156334555/7cc11be7-a9b8-49be-aa81-2c22cc7fd3d5)
