@@ -10,14 +10,11 @@ I will be adding aditional filters as i go to filter out certain users as a test
 - Creating new dashboards and visuals.
 - Editing of existing dashboards.
 - The use of filters.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Metrics.
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Security Information and Event Management (SIEM) Elastic.
 
 ## Steps
 ![image](https://github.com/Matt4llan/Elastic-SIEM/assets/156334555/83831df5-ae01-4e0f-98f9-56217418a9fe)
