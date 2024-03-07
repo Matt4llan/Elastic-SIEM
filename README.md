@@ -2,7 +2,13 @@
 
 ## Objective
 
-Developing my first dashboard & visualization on Elastic for all failed logon attempts specifically set up to show the Username, Machine ID, Logon Type & Number of records.
+Developing my first dashboard & visualization on Elastic to show
+- Failed login attempts (All Users)
+- Failed login attempts (Disabled Users)
+- Failed login attempts (Administrators)
+- Successfull RDP logons (Related To Service Account)
+- Users added / removed from Administrators group
+
 I will be adding aditional filters as i go to filter out certain users as a test.
 
 ### Skills Learned
@@ -10,7 +16,7 @@ I will be adding aditional filters as i go to filter out certain users as a test
 - Creating new dashboards and visuals.
 - Editing of existing dashboards.
 - The use of filters.
-- Metrics.
+- The use of Metrics.
 
 ### Tools Used
 
