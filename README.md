@@ -17,6 +17,7 @@ I will be adding aditional filters as i go to filter out certain users as a test
 - Editing of existing dashboards.
 - The use of filters.
 - The use of Metrics.
+- The use of Event Codes.
 
 ### Tools Used
 
