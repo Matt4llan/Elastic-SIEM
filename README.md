@@ -27,7 +27,7 @@ I will be adding aditional filters as i go to filter out certain users as a test
 ![image](https://github.com/Matt4llan/Elastic-SIEM/assets/156334555/83831df5-ae01-4e0f-98f9-56217418a9fe)
 
 As we need to create this dashboard with Failed Logon attemtps we need to use filters to achieve this.
-The windos code for failed logins is: 4625
+The windows code for failed logins is: 4625
 
 ![image](https://github.com/Matt4llan/Elastic-SIEM/assets/156334555/885fa518-0f5d-4ae4-898b-e4b6402833c3)
 
